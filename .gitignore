@@ -6,3 +6,6 @@ syntheticenv/
 *.deb
 .ipynb_checkpoints/
 __pycache__/
+*.csv
+*.png
+*.pptx
