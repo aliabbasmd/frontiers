@@ -1,0 +1,16 @@
+Dataset,Model,Optimal Clusters (Original),Optimal Clusters (Embeddings),Distance Correlation,Cosine Similarity
+data_31_linear,bert,7,6,0.511,0.876
+data_31_linear,t5,7,6,0.552,0.665
+data_31_linear,roberta,7,6,0.252,0.656
+data_31_linear,ernie,7,4,0.422,0.855
+data_31_linear,gatortron,7,7,0.423,0.869
+data_14_linear,roberta,6,7,0.749,0.828
+data_14_linear,t5,6,6,0.513,0.706
+data_14_linear,ernie,6,7,0.691,0.911
+data_14_linear,gatortron,6,7,0.577,0.868
+data_14_linear,bert,6,3,0.858,0.977
+data_2_linear,t5,6,7,0.254,0.619
+data_2_linear,bert,6,6,0.405,0.879
+data_2_linear,gatortron,6,5,0.259,0.862
+data_2_linear,roberta,6,7,0.314,0.682
+data_2_linear,ernie,6,7,0.38,0.883

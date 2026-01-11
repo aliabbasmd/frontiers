@@ -1,0 +1,8 @@
+.cache/
+.local/
+.ssh/
+tf-venv/
+syntheticenv/
+*.deb
+.ipynb_checkpoints/
+__pycache__/
